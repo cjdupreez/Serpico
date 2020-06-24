@@ -4,7 +4,7 @@ ruby "2.6.3"
 
 gem 'sinatra'
 gem 'haml'
-gem 'rubyzip'
+gem 'rubyzip', '2.2.0'
 gem 'net-ldap', '~> 0.11'
 gem 'json'
 gem 'nokogiri', '1.10.7'
